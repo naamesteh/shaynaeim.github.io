@@ -454,7 +454,7 @@ h1 a {
 .bg-layer3 {
     z-index: 870;
     background-repeat: no-repeat;
-    background-image: url(../img/Shayesteh-frontdeveloper2.png);
+    background-image: url(../img/Shayesteh-frontdeveloper2_enlarged_75percent.png);
     background-position: center;
     background-size: cover;
 }
@@ -815,7 +815,7 @@ h1 a {
     display: -webkit-flex;
     /* NEW - Chrome */
     display: flex;
-    padding: 50px;
+    padding: 10px 50px 10px 50px;
     height: 342px;
 }
 
@@ -838,8 +838,8 @@ h1 a {
 }
 
 .biref-about-intro {
-    width: 75%;
-    padding: 15px 30px 30px 30px;
+    width: 65%;
+    padding: 0px 30px 30px 30px;
 }
 
 .biref-about-intro p {
