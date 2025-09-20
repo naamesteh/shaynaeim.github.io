@@ -129,7 +129,7 @@ particlesJS('particles-js',
 // Letter Typing
 $(function () {
     $("#typed").typed({
-        strings: ["I’m a Front-end Developer with<br/>background in pure mathematics."],
+        strings: ["I’m a Data scientist with<br/>a strong background in mathematics."],
         typeSpeed: 20,
         backSpeed: 10,
         loop: false,
